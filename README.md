@@ -1,27 +1,19 @@
 # Ahmed Malik 🚀  
-**Python Engineer | AI/ML | Backend | Full-Stack | Cloud & DevOps (Learning)**
+**Python-Centric Engineer | Machine Learning | GenAI | Backend | System Design | DevOps (Active Work)**
 
 ---
 
 ## 👋 About Me
-I’m a **Python-centric engineer** working across **Machine Learning, Generative AI, backend systems, web development, and cloud deployment**.  
-I focus on **building real projects**, integrating systems end-to-end, and gradually moving toward **production-ready, scalable architectures**.
 
----
+I’m a **Python-centric engineer** working across **Machine Learning, Generative AI, backend engineering, and system-level thinking**.
 
-## 🔗 Connect with Me
+My focus is on:
+- **Machine Learning & AI-driven systems**
+- **Project engineering & AI assessment**
+- **Backend systems that support ML workflows**
+- **Understanding how production systems actually work end-to-end**
 
-<p>
-  <a href="https://www.linkedin.com/in/ahmed-malik-414">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ahmedmalik414">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ahmedmalik786414@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I aim to build **real, scalable AI systems**, not just isolated models.
 
 ---
 
@@ -36,11 +28,17 @@ I focus on **building real projects**, integrating systems end-to-end, and gradu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-**What I work on**
-- Classical ML: Regression, SVMs, Trees, Ensembles  
-- Deep Learning: CNNs, ResNet50, YOLOv8  
-- Projects: Blood Cell Classification, Weapon Detection, Face Recognition Attendance  
-- Prediction Systems: Loan Approval, Car Price Prediction  
+**Core Areas**
+- Classical ML: Linear & Logistic Regression, SVMs, Decision Trees, Random Forests
+- Deep Learning: CNNs, Transfer Learning, ResNet50, YOLOv8
+- Model evaluation, preprocessing, feature engineering
+- AI assessment & model selection for real-world problems
+
+**Projects**
+- Blood Cell Classification (ResNet50)
+- Weapon Detection (YOLOv8)
+- Face Recognition Attendance System
+- Loan Approval & Car Price Prediction
 
 ---
 
@@ -48,19 +46,26 @@ I focus on **building real projects**, integrating systems end-to-end, and gradu
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
 </p>
 
-**Focus Areas**
-- LangChain-based applications  
-- Retrieval-Augmented Generation (RAG)  
-- HuggingFace pretrained models  
-- Agentic AI concepts & MCP (learning phase)  
-- Chatbot systems integrated into web apps  
+**What I Work With**
+- LangChain for orchestration
+- Retrieval-Augmented Generation (RAG)
+- OpenAI API & OpenAI Agents SDK
+- HuggingFace pretrained models
+- Prompt engineering & tool calling
+- Early exploration of agentic AI & MCP concepts
+
+**Applications**
+- AI-powered chatbots
+- Career guidance & decision-support systems
+- Web-integrated GenAI pipelines
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend Engineering
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
@@ -68,33 +73,35 @@ I focus on **building real projects**, integrating systems end-to-end, and gradu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-**Backend Skills**
-- REST APIs & CRUD systems  
-- Authentication: JWT, tokens, sessions  
-- Django MVT, Admin panel, ORM  
-- FastAPI for high-performance APIs  
-- Django REST Framework (learning & implementation)  
+**Backend Focus (Intermediate Level)**
+- RESTful API design & versioning
+- CRUD systems with proper data modeling
+- Authentication & authorization (JWT, sessions, token-based auth)
+- Django ORM, Admin customization, migrations
+- FastAPI for high-performance, async APIs
+- API integration for ML & GenAI services
+- Error handling, validation, and structured responses
 
 ---
 
-## 🌐 Frontend & Full-Stack
+## 🧩 System Design & Architecture
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
 </p>
 
-**What I can do**
-- React (Vite): components, hooks, state, props  
-- Backend ↔ frontend integration  
-- Comfortable transitioning to **Next.js**  
-- Building full-stack apps with FastAPI/Django  
+**Concepts I Actively Study & Apply**
+- How real systems are structured end-to-end
+- Request flow: Client → Load Balancer → Backend → Services
+- Rate limiting & traffic control
+- Reverse proxies (Nginx)
+- Service communication & scalability basics
+- Connecting ML systems with backend infrastructure
+- Understanding trade-offs in performance vs simplicity
 
 ---
 
-## ☁️ Cloud, DevOps & Deployment
+## ☁️ DevOps, Cloud & Deployment
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -102,41 +109,24 @@ I focus on **building real projects**, integrating systems end-to-end, and gradu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
 </p>
 
-**Current Focus**
-- Docker containerization  
-- AWS EC2 deployments  
-- Moving toward Kubernetes (EKS)  
-- AWS ECR + YAML-based deployments  
-- Exploring monitoring with Grafana  
-- CI/CD concepts and pipelines  
-
----
-
-## 🗄 Databases & Storage
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
-- Relational & NoSQL databases  
-- Vector databases for RAG (Pinecone)  
-
----
-
-## 📈 GitHub Stats
-
-![Ahmed Malik GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedmalik414&show_icons=true&theme=tokyonight)
+**Current Work**
+- Dockerizing backend & AI applications
+- Deployments on AWS EC2
+- Container image management
+- Moving toward Kubernetes (EKS)
+- Understanding ECR, YAML-based deployments
+- Exploring monitoring & observability concepts
 
 ---
 
 ## 🎯 Current Direction
-- Becoming a **production-ready ML + Backend Engineer**  
-- Deepening **cloud & DevOps** skills  
-- Building **end-to-end AI systems**  
-- Preparing for **freelancing & real-world deployments**
+
+- Becoming a **production-ready ML & Generative AI engineer**
+- Strengthening **backend engineering depth**
+- Building **GenAI systems backed by solid architecture**
+- Developing **system design intuition**
+- Growing DevOps skills for real-world deployments
 
 ---
 
-⭐ *I believe in learning by building — every concept turns into a project.*
+⭐ *I focus on understanding systems as a whole — models, backend, infrastructure, and how they connect.*
