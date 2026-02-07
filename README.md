@@ -1,68 +1,54 @@
-Hi 👋, I'm Ahmed Malik  
-ML & GenAI Engineer | Machine Learning · Backend · System Design · DevOps  
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20I'm%20Ahmed!&fontSize=40&animation=fadeIn" />
+</p>
+
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-malik-414">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedmalik786414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ahmedmalik414">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-🌱 About Me  
-Python-centric engineer building **production-ready ML & GenAI systems**  
-Focused on **Machine Learning, Generative AI, Backend Engineering & System Design**  
-Currently exploring **Agentic AI, scalable architectures, and cloud-native deployments**
+## 👋 About Me
 
----
 
-👨‍💻 My Work  
-🔗 GitHub: https://github.com/Ahmedmalik414
+name: Ahmed Malik
+role: Software Engineer in Progress
+focus:
+  - Full-Stack Development
+  - AI & Automation
+  - Cloud & DevOps
+currently_learning:
+  - Advanced Backend Systems
+  - Docker & Kubernetes
+  - System Design
+working_on:
+  - Web Applications
+  - APIs & Services
+  - AI-powered Tools
+fun_fact: I love simplifying complex systems
+🚀 Tech Stack
+Languages
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> </p>
+Frontend
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> </p>
+Backend
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/> </p>
+Databases
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> </p>
+Cloud & DevOps
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ahmedmalik414&show_icons=true&theme=tokyonight" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedmalik414&layout=compact&theme=tokyonight" height="165"/> </p>
+🐍 Contribution Snake
 
----
-
-💬 Ask Me About  
-Machine Learning · Deep Learning · GenAI · RAG Systems  
-FastAPI · Django · System Design · Docker · Kubernetes
-
----
-
-## 🛠 Tech Stack  
-
-### AI / Machine Learning  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-
-### Generative AI  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
-
-### Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### System Design & DevOps  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Ahmedmalik414&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedmalik414&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedmalik414&theme=dark&hide_border=true&layout=compact)
-
----
-
-🎯 Current Focus  
-Becoming a **production-ready Machine Learning & GenAI Engineer**  
-with strong backend foundations, system design understanding, and DevOps practices
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Ahmedmalik414&color=0)](https://visitcount.itsvg.in)
+<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
