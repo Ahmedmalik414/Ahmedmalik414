@@ -1,5 +1,5 @@
 # Ahmed Malik
-Full-Stack Developer in Progress | Backend-First | API & Systems Focus
+Software Engineer | Backend-First | APIs, Systems, and Scalable Web Apps
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=120&text=Hey%20I'm%20Ahmed!&fontSize=40&animation=fadeIn" alt="Header" />
@@ -20,15 +20,15 @@ Full-Stack Developer in Progress | Backend-First | API & Systems Focus
 ---
 
 ## About Me
-I build clean, reliable web applications with a focus on backend systems, APIs, and real-world production practices. I like simplifying complex systems and documenting what I learn.
+I build clean, reliable web applications with a focus on backend systems, APIs, and production-ready practices. I enjoy simplifying complex systems and documenting what I ship.
 
 ## Current Focus
 - Full-stack web development with Django + modern frontend tooling
 - Building APIs and scalable backend services
-- Agentic AI workflows and tooling
+- Agentic AI workflows, automation, and orchestration
 - Machine learning projects and model-driven features
 - Docker-based development workflows
-- System design fundamentals
+- System design and architecture decisions
 - Cloud fundamentals and deployment basics
 
 ## What I'm Working On
@@ -36,7 +36,7 @@ I build clean, reliable web applications with a focus on backend systems, APIs, 
 - REST APIs (DRF) and authentication
 - Database modeling and migrations
 - Deployment experiments (Docker, reverse proxy, environment configs)
-- CI/CD basics and clean release workflows
+- CI/CD pipelines and clean release workflows
 - Agentic AI prototypes and automation
 - Learning and documenting best practices daily
 
@@ -85,6 +85,7 @@ Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman" />
 </p>
@@ -109,5 +110,5 @@ Core Skills
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=100&section=footer" alt="Footer" />
 </p>
