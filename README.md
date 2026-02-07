@@ -26,7 +26,7 @@ Software Engineer | Backend-First | APIs, Systems, and Scalable Web Apps
 
 ## 👨‍💻 My Work
 All my projects are available at:
-GitHub Repositories
+[GitHub Repositories](https://github.com/Ahmedmalik414?tab=repositories)
 
 ## 💬 Ask Me About
 Python, Django, DRF, FastAPI, APIs, Agentic AI, Machine Learning, System Design
