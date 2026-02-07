@@ -2,7 +2,7 @@
 Full-Stack Developer in Progress | Backend-First | API & Systems Focus
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey%20I'm%20Ahmed!&fontSize=40&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=120&text=Hey%20I'm%20Ahmed!&fontSize=40&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I build clean, reliable web applications with a focus on backend systems, APIs, 
 - Full-stack web development with Django + modern frontend tooling
 - Building APIs and scalable backend services
 - Agentic AI workflows and tooling
-- Machine learning fundamentals and applied projects
+- Machine learning projects and model-driven features
 - Docker-based development workflows
 - System design fundamentals
 - Cloud fundamentals and deployment basics
