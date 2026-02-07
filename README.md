@@ -1,4 +1,6 @@
-Ahmed Malik | Full-Stack, AI & Cloud Enthusiast 🚀
+Ahmed Malik 🚀
+
+Full-Stack Developer | AI & Cloud Enthusiast | DevOps Learner
 
 
 
@@ -7,20 +9,21 @@ Ahmed Malik | Full-Stack, AI & Cloud Enthusiast 🚀
 
 👋 About Me
 
-Hi! I’m Ahmed Malik, a passionate tech enthusiast exploring:
+Hi! I’m Ahmed Malik, a tech enthusiast exploring:
 
-Full-Stack Web Development (React, Django, FastAPI, Flask)
+Full-Stack Web Development (React, Flask, FastAPI, Django)
 
-Machine Learning & AI (Computer Vision, NLP, Generative AI)
+AI & Machine Learning (Computer Vision, NLP, RAG systems)
 
-Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD)
+Cloud & DevOps (AWS, Docker, Kubernetes, CI/CD pipelines)
 
-Project Integration & Automation (LangChain, RAG systems, APIs)
+Project Integration & Automation (APIs, LangChain, AI apps)
 
-I love building scalable, real-world applications and documenting my journey for learning and collaboration.
+I love building scalable, real-world applications and documenting my journey.
 
 🛠 My Tech Stack
-Programming Languages
+
+Languages:
 
 
 
@@ -29,7 +32,7 @@ Programming Languages
 
 
 
-Web & Backend Frameworks
+Web & Backend Frameworks:
 
 
 
@@ -38,7 +41,7 @@ Web & Backend Frameworks
 
 
 
-AI / Machine Learning / NLP
+AI / Machine Learning / NLP:
 
 
 
@@ -47,7 +50,7 @@ AI / Machine Learning / NLP
 
 
 
-Databases & Storage
+Databases & Storage:
 
 
 
@@ -56,9 +59,7 @@ Databases & Storage
 
 
 
-Cloud & DevOps
-
-
+Cloud & DevOps:
 
 
 
@@ -69,28 +70,25 @@ Cloud & DevOps
 1. Chatbot Web App
 
 Tech: Flask, FastAPI, LangChain, HuggingFace, Pinecone
-
-Description: AI-powered career guidance chatbot integrating RAG for contextual answers.
+Description: AI-powered career guidance chatbot integrating RAG for contextual responses.
 
 2. Full-Stack Web Apps
 
 Tech: React + Flask/Django
-
 Description: Dynamic web apps with authentication, API integration, and database backend.
 
-3. Cloud & DevOps
+3. Cloud & DevOps Projects
 
-Tech: Docker, AWS EC2, preparing Kubernetes EKS
-
-Description: Containerized and deployed applications on cloud infrastructure.
+Tech: Docker, AWS EC2, Kubernetes (in progress)
+Description: Containerized and deployed apps on cloud infrastructure.
 
 4. AI/ML Projects
 
-Blood Cell Classification: ResNet50 model for medical image classification
+Blood Cell Classification: ResNet50 for medical image classification
 
 Weapon Detection: YOLOv8-based object detection
 
-(Check all my projects here
+(All projects on GitHub
 )
 
 📈 GitHub Stats
