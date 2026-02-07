@@ -20,9 +20,13 @@ Software Engineer | Backend-First | APIs, Systems, and Scalable Web Apps
 ---
 
 ## 👋 About Me
-- Software engineering student focused on backend systems, APIs, and production-ready web apps
-- Building agentic AI tools, automation workflows, and ML-powered features
-- Shipping real-world projects and documenting what I learn
+
+- I’m a software engineering student focused on backend systems, APIs, and production-ready web apps.  
+- I build agentic AI tools, automation workflows, and ML-powered features for real use cases.  
+- My work emphasizes clean architecture, reliable data flows, and scalable design choices.  
+- I enjoy turning complex problems into simple, maintainable solutions.  
+- I actively build and ship projects to learn faster and document my progress.  
+- I’m always exploring better tools, patterns, and practices to improve delivery.
 
 ## 👨‍💻 My Work
 All my projects are available at:
@@ -33,7 +37,7 @@ Python, Django, DRF, FastAPI, APIs, Agentic AI, Machine Learning, System Design
 
 ## 📫 Contact Me
 - Email: ahmedmalik786414@gmail.com
-- LinkedIn: Ahmed Malik
+- LinkedIn: Malik Ahmed 
 - GitHub: Ahmedmalik414
 
 ---
