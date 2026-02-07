@@ -19,84 +19,55 @@ Software Engineer | Backend-First | APIs, Systems, and Scalable Web Apps
 
 ---
 
-## About Me
-I build clean, reliable web applications with a focus on backend systems, APIs, and production-ready practices. I enjoy simplifying complex systems and documenting what I ship.
+## 👋 About Me
+- Software engineering student focused on backend systems, APIs, and production-ready web apps
+- Building agentic AI tools, automation workflows, and ML-powered features
+- Shipping real-world projects and documenting what I learn
 
-## Current Focus
-- Full-stack web development with Django + modern frontend tooling
-- Building APIs and scalable backend services
-- Agentic AI workflows, automation, and orchestration
-- Machine learning projects and model-driven features
-- Docker-based development workflows
-- System design and architecture decisions
-- Cloud fundamentals and deployment basics
+## 👨‍💻 My Work
+All my projects are available at:
+GitHub Repositories
 
-## What I'm Working On
-- Django projects with real-world CRUD flows
-- REST APIs (DRF) and authentication
-- Database modeling and migrations
-- Deployment experiments (Docker, reverse proxy, environment configs)
-- CI/CD pipelines and clean release workflows
-- Agentic AI prototypes and automation
-- Learning and documenting best practices daily
+## 💬 Ask Me About
+Python, Django, DRF, FastAPI, APIs, Agentic AI, Machine Learning, System Design
+
+## 📫 Contact Me
+- Email: ahmedmalik786414@gmail.com
+- LinkedIn: Ahmed Malik
+- GitHub: Ahmedmalik414
 
 ---
 
-## Tech Stack
-Languages
+## 🛠 Languages & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-</p>
-
-Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap" />
-</p>
-
-Backend
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="45" alt="Django REST Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI" />
-</p>
-
-Databases
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
-</p>
-
-Cloud & DevOps
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" alt="Nginx" />
-</p>
-
-Tools
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman" />
-</p>
-
-Core Skills
-<p>
-  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/System%20Design-0B5FFF?style=for-the-badge&logo=blueprint&logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=F8F9FA" alt="Machine Learning" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn" />
 </p>
 
 ---
