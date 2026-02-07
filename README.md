@@ -25,6 +25,8 @@ I build clean, reliable web applications with a focus on backend systems, APIs, 
 ## Current Focus
 - Full-stack web development with Django + modern frontend tooling
 - Building APIs and scalable backend services
+- Agentic AI workflows and tooling
+- Machine learning fundamentals and applied projects
 - Docker-based development workflows
 - System design fundamentals
 - Cloud fundamentals and deployment basics
@@ -34,6 +36,8 @@ I build clean, reliable web applications with a focus on backend systems, APIs, 
 - REST APIs (DRF) and authentication
 - Database modeling and migrations
 - Deployment experiments (Docker, reverse proxy, environment configs)
+- CI/CD basics and clean release workflows
+- Agentic AI prototypes and automation
 - Learning and documenting best practices daily
 
 ---
@@ -56,6 +60,7 @@ Frontend
 Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="45" alt="Django REST Framework" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI" />
 </p>
@@ -72,6 +77,8 @@ Cloud & DevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" alt="Nginx" />
 </p>
 
 Tools
@@ -80,6 +87,15 @@ Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" alt="Postman" />
+</p>
+
+Core Skills
+<p>
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/System%20Design-0B5FFF?style=for-the-badge&logo=blueprint&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=F8F9FA" alt="Machine Learning" />
 </p>
 
 ---
