@@ -1,61 +1,142 @@
 # Ahmed Malik 🚀  
-**Full-Stack Developer | AI & Cloud Enthusiast | DevOps Learner**
+**Python Engineer | AI/ML | Backend | Full-Stack | Cloud & DevOps (Learning)**
 
 ---
 
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-malik-414)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedmalik414)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmalik786414@gmail.com)
+## 👋 About Me
+I’m a **Python-centric engineer** working across **Machine Learning, Generative AI, backend systems, web development, and cloud deployment**.  
+I focus on **building real projects**, integrating systems end-to-end, and gradually moving toward **production-ready, scalable architectures**.
 
 ---
 
-## Languages & Tools:
+## 🔗 Connect with Me
 
 <p>
-  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-malik-414">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ahmedmalik414">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedmalik786414@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## Projects
+## 🧠 Machine Learning & Deep Learning
 
-### **1. Chatbot Web App**  
-**Tech:** Flask, FastAPI, LangChain, HuggingFace, Pinecone  
-**Description:** AI-powered career guidance chatbot integrating RAG for contextual responses.  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+</p>
 
-### **2. Full-Stack Web Apps**  
-**Tech:** React + Flask/Django  
-**Description:** Dynamic web apps with authentication, API integration, and database backend.  
-
-### **3. Cloud & DevOps Projects**  
-**Tech:** Docker, AWS EC2, Kubernetes (in progress)  
-**Description:** Containerized and deployed apps on cloud infrastructure.  
-
-### **4. AI/ML Projects**  
-- Blood Cell Classification using **ResNet50**  
-- Weapon Detection using **YOLOv8**  
-
-*(Check all projects [here](https://github.com/Ahmedmalik414))*
+**What I work on**
+- Classical ML: Regression, SVMs, Trees, Ensembles  
+- Deep Learning: CNNs, ResNet50, YOLOv8  
+- Projects: Blood Cell Classification, Weapon Detection, Face Recognition Attendance  
+- Prediction Systems: Loan Approval, Car Price Prediction  
 
 ---
 
-## GitHub Stats
+## 🤖 Generative AI & Agentic Systems
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedmalik414&show_icons=true&theme=tokyonight)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+</p>
+
+**Focus Areas**
+- LangChain-based applications  
+- Retrieval-Augmented Generation (RAG)  
+- HuggingFace pretrained models  
+- Agentic AI concepts & MCP (learning phase)  
+- Chatbot systems integrated into web apps  
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+</p>
+
+**Backend Skills**
+- REST APIs & CRUD systems  
+- Authentication: JWT, tokens, sessions  
+- Django MVT, Admin panel, ORM  
+- FastAPI for high-performance APIs  
+- Django REST Framework (learning & implementation)  
+
+---
+
+## 🌐 Frontend & Full-Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
+
+**What I can do**
+- React (Vite): components, hooks, state, props  
+- Backend ↔ frontend integration  
+- Comfortable transitioning to **Next.js**  
+- Building full-stack apps with FastAPI/Django  
+
+---
+
+## ☁️ Cloud, DevOps & Deployment
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+</p>
+
+**Current Focus**
+- Docker containerization  
+- AWS EC2 deployments  
+- Moving toward Kubernetes (EKS)  
+- AWS ECR + YAML-based deployments  
+- Exploring monitoring with Grafana  
+- CI/CD concepts and pipelines  
+
+---
+
+## 🗄 Databases & Storage
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+- Relational & NoSQL databases  
+- Vector databases for RAG (Pinecone)  
+
+---
+
+## 📈 GitHub Stats
+
+![Ahmed Malik GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedmalik414&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Current Direction
+- Becoming a **production-ready ML + Backend Engineer**  
+- Deepening **cloud & DevOps** skills  
+- Building **end-to-end AI systems**  
+- Preparing for **freelancing & real-world deployments**
+
+---
+
+⭐ *I believe in learning by building — every concept turns into a project.*
